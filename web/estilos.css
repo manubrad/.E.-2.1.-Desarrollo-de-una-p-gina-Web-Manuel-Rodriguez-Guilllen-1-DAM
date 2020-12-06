@@ -1,0 +1,78 @@
+#header {
+    align-items: center;
+    width: 80%;
+    height: 180px;
+}
+
+
+/* Por si no carga la imagen tambien incorporo una textura */
+body {
+    background:
+        radial-gradient(hsl(0, 100%, 27%) 4%, hsl(0, 100%, 18%) 9%, hsla(0, 100%, 20%, 0) 9%) 0 0,
+        radial-gradient(hsl(0, 100%, 27%) 4%, hsl(0, 100%, 18%) 8%, hsla(0, 100%, 20%, 0) 10%) 50px 50px,
+        radial-gradient(hsla(0, 100%, 30%, 0.8) 20%, hsla(0, 100%, 20%, 0)) 50px 0,
+        radial-gradient(hsla(0, 100%, 30%, 0.8) 20%, hsla(0, 100%, 20%, 0)) 0 50px,
+        radial-gradient(hsla(0, 100%, 20%, 1) 35%, hsla(0, 100%, 20%, 0) 60%) 50px 0,
+        radial-gradient(hsla(0, 100%, 20%, 1) 35%, hsla(0, 100%, 20%, 0) 60%) 100px 50px,
+        radial-gradient(hsla(0, 100%, 15%, 0.7), hsla(0, 100%, 20%, 0)) 0 0,
+        radial-gradient(hsla(0, 100%, 15%, 0.7), hsla(0, 100%, 20%, 0)) 50px 50px,
+        linear-gradient(45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0,
+        linear-gradient(-45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0;
+    background-color: #300;
+    background-size: 100px 100px;
+    background-image: url(https://www.wearemarketing.com/media/cache/dynamic/rc/JbJlyy1E//uploads/media/default/0001/19/e1a5b621928925cfbbf09ffc56d90a4eea9c3ec3.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left; 
+    font-family: Arial; 
+    font-size: 20px; 
+    COLOR: #021829; 
+    text-shadow: 0px 0px 9px #508AD3;
+    }
+
+
+#footer{
+    font-weight: bold;
+}
+.bodyform{
+    background-color: darkslateblue;
+}
+
+/* Profile */
+
+div,p {
+    font-weight: bold;
+}
+
+
+
+/* Applied psycology */
+
+
+
+/* Artificial Intelligence */
+
+.pregresp {
+    border: 1px solid #7DA5E0;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    }
+    
+    .pregunta {
+    color: #7DA5E0;
+    }
+    
+    .respuestas {
+    color: #000000;
+
+    }
+    /*!ROBOTS*/
+    .imgrob{
+        width: 16rem;
+        margin-left: 3rem;
+        justify-content: center;
+    }

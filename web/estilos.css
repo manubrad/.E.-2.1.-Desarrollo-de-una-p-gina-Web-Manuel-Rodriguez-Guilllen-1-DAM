@@ -1,8 +1,10 @@
 #header {
     align-items: center;
-    width: 80%;
+    width: 100%;
     height: 180px;
+    justify-content: center;
 }
+
 
 
 /* Por si no carga la imagen tambien incorporo una textura */

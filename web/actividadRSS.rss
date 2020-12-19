@@ -1,0 +1,18 @@
+
+
+<rss version="2.0">
+    <channel>
+    
+        <title>canal del tiempo</title>
+        <link>https://www.tiempo.es/</link>
+        <description>Este es el canal del tiempo</description>
+        
+        <item>
+            <title>Sevilla </title>
+            <guid>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</guid>
+            <link>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</link>
+            <description>El tiempo en sevilla</description>
+        </item>
+
+    </channel>
+</rss>

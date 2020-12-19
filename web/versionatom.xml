@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <feed xmlns="http://www.w3.org/2005/Atom">
+      
+      <title>El tiempo</title>
+      <link href="https://www.tiempo.es/"/>
+      <updated>2020-12-19T11:30:02Z</updated>
+      <author>
+        <name>Manuel Rodriguez</name>
+      </author>
+      <id>https://www.tiempo.es/</id>
+
+        
+      <entry>
+        <title>El tiempo en sevilla</title>
+        <link href="https://www.tiempo.es/sevilla-sevilla-es0se0093.html"/>
+        <id>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</id>
+        <updated>2020-12-19T11:30:02Z</updated>
+        <summary>Some text.</summary>
+      </entry>
+   </feed>

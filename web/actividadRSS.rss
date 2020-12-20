@@ -1,4 +1,4 @@
-
+<?xml version="1.0" encoding="utf-8"?>
 
 <rss version="2.0">
     <channel>
@@ -6,7 +6,7 @@
         <title>canal del tiempo</title>
         <link>https://www.tiempo.es/</link>
         <description>Este es el canal del tiempo</description>
-        
+        <language>es</language>
         <item>
             <title>Sevilla </title>
             <guid>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</guid>
